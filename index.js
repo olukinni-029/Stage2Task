@@ -14,6 +14,7 @@ app.get("/", (req, res) => {
 
 app.use(userRoute);
 
+
 app.listen(port, async () => {
   try {
     await connectDB(process.env.MONGODB_URL);
