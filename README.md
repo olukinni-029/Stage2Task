@@ -31,3 +31,12 @@ yarn run start
 2. READ: Fetching details of a person =>/api/user_id
 3. UPDATE: Modifying details of an existing person =>/api/user_id
 4. DELETE: Removing a person =>/api/user_id
+
+## Postman Documentation
+```
+https://documenter.getpostman.com/view/22272570/2s9YC4VDFf
+```
+## UML Diagram
+```
+https://res.cloudinary.com/dhekqilcw/image/upload/v1694609454/UML_diagram_oyvqh7.svg
+```
